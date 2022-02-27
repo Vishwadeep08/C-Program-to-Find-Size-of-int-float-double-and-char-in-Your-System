@@ -21,11 +21,11 @@ int main()
 	//condition to check voting eligility
 	if(age>=18)
 	{
-		cout<<"Personl is eligible for voting"<<endl;
+		cout<<"You're eligible for voting"<<endl;
 	}
 	else
 	{
-		cout<<"Person is not eligible for voating"<<endl;
+		cout<<"You're not eligible for voting"<<endl;
 	}
 
 	return 0;
